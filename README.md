@@ -26,10 +26,10 @@ Both the local branch and the remote branch changed overlapping parts of `bank.p
 The output of `git shortlog -sn` was:
 ```text
 23  6705140039-jerry
-12  6705140034-SoPyayHtoo
+14  6705140034-SoPyayHtoo
 10  6705140013-zett
-7  6705140005-ZarrNiHtut
-3  squareroot99
+8  6705140005-ZarrNiHtut
+4  squareroot99
 1  sqauareroot99
 ```
 
