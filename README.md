@@ -1,6 +1,6 @@
-### Group Name - Duty Free
+### 1. Group Name - Duty Free
 
-## Who Did What
+## 2. Who Did What
 
 | Member | GitHub Username | File |
 |---|---|---|
