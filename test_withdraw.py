@@ -1,5 +1,5 @@
 import pytest
-from bank_account import BankAccount
+from bank import BankAccount
 
 
 @pytest.fixture
