@@ -20,3 +20,17 @@ We reviewed both versions of `bank.py` and combined the needed changes into one 
 
 ### Why Git could not resolve it automatically
 Both the local branch and the remote branch changed overlapping parts of `bank.py`. Git could not determine which changes to keep, so we resolved them manually.
+
+## 5. Reflection Questions
+
+1. **Why was your push rejected, and how did you fix it?**  
+   My push was rejected because the remote repository had commits that were missing from my local branch. I pulled the remote changes with rebase, resolved the conflict, and then pushed again.
+
+2. **Why could Git not resolve the README conflict automatically?**  
+   Both branches changed overlapping parts of the README, so Git could not determine which version to keep. I reviewed the changes and resolved the conflict manually.
+
+3. **What is the difference between committing and pushing?**  
+   Committing saves changes to the project’s history on my computer. Pushing uploads those commits to the remote repository, such as GitHub.
+
+4. **How do fixtures reduce duplicated setup code in tests?**  
+   A fixture creates reusable setup, such as a test account, that multiple tests can request. This avoids repeating the same setup code in each test.
