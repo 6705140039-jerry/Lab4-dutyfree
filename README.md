@@ -24,7 +24,7 @@ Both the local branch and the remote branch changed overlapping parts of `bank.p
 ## 4. Reflection Questions
 
 1. **Why was your push rejected, and how did you fix it?**  
-   My push was rejected because the remote repository had             commits that were missing from my local branch. I pulled the remote changes with rebase, resolved the conflict, and then pushed again.
+   My push was rejected because the remote repository had commits that were missing from my local branch. I pulled the remote changes with rebase, resolved the conflict, and then pushed again.
 
 3. **Why could Git not resolve the README conflict automatically?**  
    Both branches changed overlapping parts of the README, so Git could not determine which version to keep. I reviewed the changes and resolved the conflict manually.
