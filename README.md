@@ -1,4 +1,4 @@
-### Group name - Duty Free
+### Group Name - Duty Free
 
 ## Who Did What
 
