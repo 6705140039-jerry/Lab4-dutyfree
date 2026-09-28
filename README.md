@@ -21,7 +21,7 @@ We reviewed both versions of `bank.py` and combined the needed changes into one 
 ### Why Git could not resolve it automatically
 Both the local branch and the remote branch changed overlapping parts of `bank.py`. Git could not determine which changes to keep, so we resolved them manually.
 
-## 4. Reflection Questions
+## 5. Reflection Questions
 
 1. **Why was your push rejected, and how did you fix it?**  
    My push was rejected because the remote repository had commits that were missing from my local branch. I pulled the remote changes with rebase, resolved the conflict, and then pushed again.
