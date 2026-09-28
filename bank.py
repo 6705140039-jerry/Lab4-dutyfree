@@ -4,8 +4,3 @@ class BankAccount:
 
     def deposit(self, amount):
         self.balance += amount
-
-    def withdraw(self, amount):
-        if amount > self.balance:
-            raise ValueError("Insufficient funds")
-        self.balance -= amount
