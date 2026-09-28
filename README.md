@@ -1,3 +1,5 @@
+Group name - Duty Free
+
 ## Who Did What
 
 | Member | GitHub Username | File |
