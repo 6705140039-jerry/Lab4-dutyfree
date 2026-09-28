@@ -21,6 +21,16 @@ We reviewed both versions of `bank.py` and combined the needed changes into one 
 ### Why Git could not resolve it automatically
 Both the local branch and the remote branch changed overlapping parts of `bank.py`. Git could not determine which changes to keep, so we resolved them manually.
 
+## Git Contribution Summary
+
+The output of `git shortlog -sn` was:
+23  6705140039-jerry
+12  6705140034-SoPyayHtoo
+10  6705140013-zett
+7  6705140005-ZarrNiHtut
+3  squareroot99
+1  sqauareroot99
+
 ## 5. Reflection Questions
 
 1. **Why was your push rejected, and how did you fix it?**  
